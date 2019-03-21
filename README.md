@@ -1,6 +1,8 @@
 # RFLoadingView
 a convenient  LoadingView use in loading, simple, cool, fast implementation
 
+[![Build Status](https://travis-ci.org/wangruofeng/RFLoadingView.svg?branch=master)](https://travis-ci.org/wangruofeng/RFLoadingView)
+
 ### 最终效果
 
 
