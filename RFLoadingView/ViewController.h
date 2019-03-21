@@ -2,8 +2,8 @@
 //  ViewController.h
 //  RFLoadingView
 //
-//  Created by 王若风 on 9/10/16.
-//  Copyright © 2016 王若风. All rights reserved.
+//  Created by wangruofeng on 2019/3/22.
+//  Copyright © 2019年 ruofeng. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
