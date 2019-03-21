@@ -16,7 +16,7 @@
 		690AFA032243F43B007E8A35 /* RFLoadingView.m in Sources */ = {isa = PBXBuildFile; fileRef = 690AF9FD2243F43B007E8A35 /* RFLoadingView.m */; };
 		690AFA042243F43B007E8A35 /* RFLodingView.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 690AF9FF2243F43B007E8A35 /* RFLodingView.mp4 */; };
 		690AFA052243F43B007E8A35 /* RFLoadingView_Demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 690AFA002243F43B007E8A35 /* RFLoadingView_Demo.gif */; };
-		690AFA082243F458007E8A35 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 690AFA062243F458007E8A35 /* ViewController.m */; };
+		690AFA0E224401DE007E8A35 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 690AFA0D224401DE007E8A35 /* ViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,8 +34,8 @@
 		690AF9FE2243F43B007E8A35 /* RFLoadingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RFLoadingView.h; sourceTree = "<group>"; };
 		690AF9FF2243F43B007E8A35 /* RFLodingView.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = RFLodingView.mp4; sourceTree = "<group>"; };
 		690AFA002243F43B007E8A35 /* RFLoadingView_Demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = RFLoadingView_Demo.gif; sourceTree = "<group>"; };
-		690AFA062243F458007E8A35 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = ViewController.m; path = ../../../../../Library/Developer/Xcode/UserData/RFLoadingView/ViewController.m; sourceTree = "<group>"; };
 		690AFA092243F4BE007E8A35 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		690AFA0D224401DE007E8A35 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,7 +71,7 @@
 				690AF9E42243F412007E8A35 /* AppDelegate.h */,
 				690AF9E52243F412007E8A35 /* AppDelegate.m */,
 				690AFA092243F4BE007E8A35 /* ViewController.h */,
-				690AFA062243F458007E8A35 /* ViewController.m */,
+				690AFA0D224401DE007E8A35 /* ViewController.m */,
 				690AFA002243F43B007E8A35 /* RFLoadingView_Demo.gif */,
 				690AF9FE2243F43B007E8A35 /* RFLoadingView.h */,
 				690AF9FD2243F43B007E8A35 /* RFLoadingView.m */,
@@ -159,7 +159,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				690AFA082243F458007E8A35 /* ViewController.m in Sources */,
+				690AFA0E224401DE007E8A35 /* ViewController.m in Sources */,
 				690AFA032243F43B007E8A35 /* RFLoadingView.m in Sources */,
 				690AFA012243F43B007E8A35 /* UIView+rf_Extension.m in Sources */,
 				690AF9F42243F413007E8A35 /* main.m in Sources */,
